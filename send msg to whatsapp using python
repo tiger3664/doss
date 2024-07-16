@@ -1,0 +1,10 @@
+Hello Everyone !! 
+I am here to introduce you to a new way to send WhatsApp messages using the pywhatkit module. 
+The code is shown below:- 
+pwk.sendwhatmsg("number_you_want_to_text","your_message", hour, min).
+Make sure the hour is in 24-hour format. 
+See how python code work :-
+http://localhost:8888/notebooks/Task%202%20Whatsapp.ipynb#
+
+# I hope you all have learned something new from my this post.
+Thank you so much.
